@@ -8,3 +8,4 @@ Un repositorio creado de maneraa online es un repositorio remoto.
 ![alt text](image-1.png)
 
 ### EJERCICIO III
+![alt text](image-2.png)
